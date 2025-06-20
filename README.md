@@ -1,10 +1,10 @@
 # ForcedDestabilization
 
-This repository contains the supplemental data and videos associated with the paper:
+This repository contains the data and supplemental movies associated with the paper:
 
-**Gabbard et al., 2025**  
-_Title of the paper_  
-_Journal name, DOI_
+**Gabbard _et al_., 2025**  
+_Forced destabilization of a granular raft_  
+_under review_
 
 ---
 
