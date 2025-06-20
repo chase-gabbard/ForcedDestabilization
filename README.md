@@ -6,7 +6,7 @@ This repository contains the data and supplemental movies associated with the pa
 _Forced destabilization of a granular raft_  
 _under review_
 
-![Rebound](bounce.png)
+![Rebound](GranularRaftDestabilization.png)
 
 <div style="text-align:center">
   <img src="Supplemental movies/Movie 1.gif" alt="Image 1" /><br/>
