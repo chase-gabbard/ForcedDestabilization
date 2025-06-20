@@ -43,7 +43,7 @@ played at 3/1600x real speed</em>
 
 ## Data
 
-The data presented in the manuscript is available in here
+The data presented in the manuscript is available [here](Data/Data.xlsx).
 
 ---
 
