@@ -36,7 +36,7 @@ the total particle weight.
 
 <p align="center">
   <em>
-    Movie 1: Oil encapsulation in the (a) dripping and (b) jetting regime for <strong>R̄</strong> = 0.29 and Ca = 7.9 × 10⁻⁴.
+    Movie 1: Oil encapsulation in the (a) dripping and (b) jetting regime for R̄ = 0.29 and Ca = 7.9 × 10⁻⁴.
   </em>
 </p>
 
