@@ -1,4 +1,4 @@
-# ForcedDestabilization
+# Forced destabilization of a granular raft
 
 This repository contains the data and supplemental movies associated with the paper:
 
