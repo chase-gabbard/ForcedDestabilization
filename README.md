@@ -6,17 +6,7 @@ This repository contains the data and supplemental movies associated with the pa
 _Forced destabilization of a granular raft_  
 _under review_
 
-![Rebound](GranularRaftDestabilization.png)
-
-<div style="text-align:center">
-  <img src="Supplemental movies/Movie 1.gif" alt="Image 1" /><br/>
-  <em>A typical example of drop generation. A liquid jet is ejected from a circular orifice when a 
-piezoelectric diaphragm is flexed. As the diaphragm relaxes, the stream is retracted while capillary
-forces pinch off a drop. The upward motion of the stream during pinch-off directs the drop 
-upward, allowing oscillations of the drop’s interface to decay before it descends. The video is 
-played at 3/1600x real speed</em>
-</div>
-
+![Cover](GranularRaftDestabilization.png)
 
 ---
 
