@@ -31,7 +31,7 @@ the total particle weight.
 ## Supplemental movies 
 
 <p align="center">
-  <img src="Supplemental%20Movies/Movie1.gif" width="50%">
+  <img src="Supplemental%20Movies/Movie1.gif" width="40%">
 </p>
 
 <p align="center">
