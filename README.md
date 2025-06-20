@@ -10,12 +10,21 @@ _under review_
 
 ---
 
-## Contents
+## Overview
 
-- `Video1.mp4`: Indenter penetrating a granular raft
-- `Video2.mp4`: Transition from ejection to dripping
-- `Data.csv`: Table of measured parameters for all trials
-- `Plot_Figure3.m`: MATLAB script to reproduce Figure 3 from the paper
+Particles floating at an oil–water interface can aggregate via lateral capillary interactions to form granular rafts
+with unique mechanical properties. When destabilized—either spontaneously or through external forcing—
+these rafts can encapsulate oil within armored drops. Here, we investigate the forced destabilization of such
+rafts by indenting them with cylinders of varying size and at various speeds. We identify three distinct phases
+of destabilization: stable deformation, particle ejection, and oil encapsulation. The onset of particle ejection is
+explained by considering the cumulative weight of particles coating the indenter, with the particle ejection rate
+increasing with indentation depth. The encapsulation process consists of a dripping regime, where individual
+encapsulated oil drops grow and detach under gravity, and a jetting regime, where a continuous oil thread breaks
+into drops via capillary instability. In the dripping regime, drop size increases with the indenter size, and drop
+frequency increases with indentation depth. In contrast, the jetting regime produces smaller, more frequent
+drops with higher size variability due to the dynamic nature of the instability. After destabilization, a residual
+cap of particles remains adhered to the indenter whose size scales with an effective Bond number incorporating
+the total particle weight.
 
 ---
 
