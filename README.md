@@ -24,9 +24,15 @@ _under review_
 If you use this data, please cite our associated paper:
 
 ```bibtex
-@misc{gabbard2025forced,
-      title={Forced destabilization of a granular raft}, 
-      author={Chase T. Gabbard, Edward whitesell, and Joshua B. Bostwick},
+@article{gabbard2025forced,
+  title={Forced destabilization of a granular raft},
+  author={Chase T. Gabbard, Edward Whitesell, and Joshua B. Bostwick},
+  journal={XXX},
+  volume={XXX},
+  number={XXX},
+  pages={XXX},
+  year={XXX},
+  publisher={XXX}
 }
 ```
 
